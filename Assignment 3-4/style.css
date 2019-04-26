@@ -1,0 +1,38 @@
+
+  body{
+    background-image: linear-gradient(rgb(209, 137, 177),rgb(90, 90, 165))
+    
+  
+  }
+  #header{
+    background-image: url("images/header.jpg");
+    block-size: 40%
+  }
+  #header{
+      font-size: 50px;
+      text-shadow: 2px 3px #252121;
+      font-family:fantasy; 
+      color: blueviolet;
+      text-align: center;
+      padding: 4%
+  }
+
+
+footer { 
+  background-color: rgba(189, 106, 106, 0.671);
+  padding: 10px;
+  text-align: center;
+  
+}
+
+
+#texts{
+  text-align: center;
+  font-style: inherit;
+  font-size: 20px;
+}
+
+
+  
+  
+  
