@@ -47,16 +47,13 @@ require 'db.php';
                       <h3>Categories</h3>
                     <ul class="nav flex-column">
                       <li class="nav-item">
-                        <a class="nav-link" style="color:rgba(14, 41, 28, 0.623)" href="#" >Car Categories</a>
-                      </li>
-                      <li class="nav-item">
-                        <a class="nav-link" style="color:rgba(14, 41, 28, 0.623)"href="#">Clothing Categories</a>
+                        <a class="nav-link" style="color:rgba(14, 41, 28, 0.623)" href="images/cars cat.php" >Car Categories</a>
                       </li>
                       <li class="nav-item">
                         <a class="nav-link" style="color:rgba(14, 41, 28, 0.623)"href="#">Computer Categories</a>
                       </li>
                       <li class="nav-item">
-                          <a class="nav-link" style="color:rgba(14, 41, 28, 0.623)" href="#">Phone Categories</a>
+                          <a class="nav-link" style="color:rgba(14, 41, 28, 0.623)" href="images/phone cat.php">Phone Categories</a>
                         </li>
                     </ul>
                     </div>
@@ -65,7 +62,7 @@ require 'db.php';
 
 
 
-              <div class="col-lg-3">
+             <div class="col-lg-3">
                       <div id=texts>
                       <p>
                       <a href="images/cars.php">
@@ -76,17 +73,7 @@ require 'db.php';
                       </div>
                    </div>
         
-                <div class="col-lg-3">
-                      <div id=texts>
-                        <p>
-                        <a href="images/clothing.html">
-                        <img src="images/clothing.jpg">
-                        </a>
-                        <br>
-                        Clothing       
-                        </p>
-                        </div>
-                </div>
+               
 
                  <div class="col-lg-3">
                         <div id=texts>
@@ -101,10 +88,10 @@ require 'db.php';
                   </div>
         
       <!--<div class="col-lg-9"> -->
-                  <div class="col-lg-9">
+                  <div class="col-lg-3">
                         <div id=texts>
                         <p>
-                        <a href="images/phones.html">
+                        <a href="images/phone.php">
                         <img src="images/phone.jpg">
                         </a>
                         <br>
