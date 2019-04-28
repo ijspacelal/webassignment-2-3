@@ -50,7 +50,7 @@ require 'db.php';
                         <a class="nav-link" style="color:rgba(14, 41, 28, 0.623)" href="images/cars cat.php" >Car Categories</a>
                       </li>
                       <li class="nav-item">
-                        <a class="nav-link" style="color:rgba(14, 41, 28, 0.623)"href="#">Computer Categories</a>
+                        <a class="nav-link" style="color:rgba(14, 41, 28, 0.623)"href="images/computer cat.php">Computer Categories</a>
                       </li>
                       <li class="nav-item">
                           <a class="nav-link" style="color:rgba(14, 41, 28, 0.623)" href="images/phone cat.php">Phone Categories</a>
@@ -78,11 +78,11 @@ require 'db.php';
                  <div class="col-lg-3">
                         <div id=texts>
                         <p>
-                        <a href="images/Computer.html">
+                        <a href="images/Computer.php">
                         <img src="images/Computer.jpg">
                         </a>
                         <br>
-                        Computers      
+                        All Computers      
                         </p>
                         </div>
                   </div>
